@@ -14,4 +14,3 @@ if (navigator.serviceWorker) {
     scope: "/ICS2O-Unit6-03-JS/",
   })
 }
-
