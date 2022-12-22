@@ -22,18 +22,18 @@
 }
 
 body {
-  background-color: rgb(154 211 232);
+  background-color: lightgrey;
 }
 
 p {
-  color: black;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding-top: 15pt;
+  color: #000;
+  text-align: center;
+}
+
+div {
+  text-align: center;
 }
 
 img {
-  float: right;
-  margin-right: 15px;
+  height: auto;
 }
